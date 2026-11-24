@@ -5,12 +5,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/keshav narayana vashishtha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav narayana vashishtha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/keshav-vashishtha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav narayana vashishtha" height="30" width="40" /></a>
 <a href="https://instagram.com/kn_vashishtha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kn_vashishtha" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kn_vashishtha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kn_vashishtha" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@cseb_21b0101132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@cseb_21b0101132" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kn.vashishtha22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kn.vashishtha22" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user5586xy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5586xy" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Vashishtha_20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5586xy" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/knvashishtha22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="knvashishtha22" height="30" width="40" /></a>
 </p>
 
